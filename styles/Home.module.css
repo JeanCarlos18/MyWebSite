@@ -69,11 +69,18 @@
 }
 
 .card h3 {
+  color: #0070f3;
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
 }
 
+.card p:hover {
+  color: #000000;
+}
+
 .card p {
+  color: #babbbd;
+  ;
   margin: 0;
   font-size: 1.25rem;
   line-height: 1.5;
